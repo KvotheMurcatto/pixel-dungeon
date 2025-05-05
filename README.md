@@ -24,7 +24,7 @@ the project with an IDE.
 
 This project also fixes several small compile issues and several oddities in the code.
 
-## Common prolems
+## Common problems
 
 ### Opening the project in Android Studio results in "Configuration with name 'default' not found"
 That's probably because you cloned the repo without the '--recursive' part. To fix it, run the 
